@@ -1,0 +1,22 @@
+body{
+	background-color: #D99595;
+}
+
+h1{
+	color: black;
+	text-align: center;
+}
+
+div {
+	text-align: center;
+	width: 40%;
+	height: 20%;
+	background-color: #959595;
+	margin: auto;
+
+}
+
+#return {
+	padding: 70px 0;
+	text-align: center;
+}
