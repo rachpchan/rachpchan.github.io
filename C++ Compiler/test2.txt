@@ -1,0 +1,9 @@
+    [* comment *]
+    
+$$
+    int num, nu2m, sum;
+num = a;
+nu2m = 15;
+sum = 0;
+sum = num + nu2m;
+    $$

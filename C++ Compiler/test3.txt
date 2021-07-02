@@ -1,0 +1,18 @@
+    [* comment *]
+
+    $$
+    int count, total;
+
+    count = 0;
+    total = 10;
+
+    get(count);
+    get(total);
+
+    while(count < total){
+        count = count + 1;
+    }whileend
+
+
+    get(total);
+    $$

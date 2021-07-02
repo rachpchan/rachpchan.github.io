@@ -1,0 +1,16 @@
+    [* TESTING *]
+
+$$
+int j, min, max, sum;
+
+min = 0.0;    
+sum = 0.0;
+    j = 23;
+    get ( max);
+    while (j <  max)  {
+          sum = sum + j;
+          j  = j + 1; 
+     }
+     whileend
+     put (sum + max);
+$$
